@@ -1,6 +1,6 @@
 ## A Deep Attentive Multimodal Learning Approach for Disaster Identification From Social Media Posts
 
-**Author:** Eftekhar Hossain, Mohammed Moshiul Hoque, Enamul Hoque, Md. Saiful
+**Author:** Eftekhar Hossain, Mohammed Moshiul Hoque, Enamul Hoque, Md. Saiful Islam
 
 **Venue:** IEEE Access (Q1, IF-3.367)   
 
@@ -24,6 +24,6 @@ Figure 2 presents the schematic diagram of our proposed system, which has three 
 <img title="" src="proposed-method.png" alt="">
 
 ## Ackonwlegement
-This work was supported by the Natural Sciences and Engineering Research Council (NSERC), Canada..
+This work was supported by the Natural Sciences and Engineering Research Council (NSERC), Canada.
 
 
